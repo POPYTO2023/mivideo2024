@@ -1,26 +1,6 @@
 #EXTM3U
-
-
-<?wpl version="1.0"?>
-<smil>
-    <head>
-        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.19041.1865"/>
-        <meta name="ItemCount" content="1"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
-        <author/>
-        <title>LISTA RED</title>
-    </head>
-    <body>
-        <seq>
-            <media src="\\MASTER\Video\Banda Sinfónica FACH - La Profecía (Jerry Goldsmith).mp4"/>
-        </seq>
-    </body>
-</smil>
-
+#EXTINF:0,Banda Sinfónica FACH - La Profecía (Jerry Goldsmith).mp4
+\\MASTER\Video\Banda Sinfónica FACH - La Profecía (Jerry Goldsmith).mp4
 
 #EXTINF:-1, Nightmare Cinema
 https://ffa04a5089f40f0c68342a8c513439638a01bd0db92bcc097e5c6db-apidata.googleusercontent.com/download/storage/v1/b/bisco-01/o/5fc682213f7c6e1ff51bfff4.mp4?jk=ATmLuOHLsH393kaJiKhLcgdHO8bz1Sk9SZs24O1b2e2Cl9ypqnnb_OstHBjIHJDVJ-YGoRKv3Hm-pwgKGj0gjp7aITClICw9TcV6I2a4yKx5rjtYjmjV_VpuwsvS1613AZv2yGKvivk3AIi89L0omUeCIEQaI8I9WfNIdJq0bUsZGuuHESZYIUEj2p0xBaMHY0ASb_M_a2W56SwqrjM8844nCiWZR-Bw5l3xBQLEfdtLNtSz4Dhve4CzOBztiv-nDBTQMyghh_sIrbJX6K-81xzICxIrKdV97ndnUVeu-0QjRtaj4-sOJCqrdfz9yEGwIVcXNC1IB0N9K3aVVIW6gN1YAjdwRfup33SCcble6TIj1Hq0CpTTsnpjFgYRNQBH_CTLr8Rhgbj7UhGPHOWSqJdBfxoaGwOyYBkUPNLBkYIrc9LDbj8FqgFxZd485uKo6A0iff4wxafUDAbDEHXWQzSuEhb7M9wQxzljsq1SiIme0xBQ6qapWc_RBNK0s1q4RA0GQZPYL9r1JLjPoNKXxK0MXNbZYVTtUsse4MQjeULAPbp1HEUrQYyPCCPZghdX9l4W5LFL_mmii0SH6JUzsaH3F_w370pnvMggx6rWnx3_uUgKM7vzimCTXGJtPHzVM7htNiK_vhSOq3MIfIWN2tK8bIGEsYypDyvG8PZU8HOmjeuQnLHykgR1ZxgCRHXedjoPpU6Y4FdlwVwEYwZRrio6FCYGp6u0J_xkifcBJdeBhS3wei8-ZJNolJid3Wwes4ldW0fZxdRIm9-JdttS1Mq_XotSlwzu44xBKDKcqeSdY0MFoxbx6-c-elwGuLSO7DefguDGDDGBWFpaWlYhCC2s1l0jYEa3H7ewJ9rf3qgnaCdUQ-xCTklT2NKcOiwmSF3gvS_4clth3TyMeVWsebxnYxCtO9UXeBQHwDiIQiEw9lX5k1JD-t9U44f3lRW27JfFT90e36mPKhqFpV70JPD4XJqRwKX6zNEprt4nNFZB4F8l-yrPEMhD7umiCL8Y-urqx3pkKNhfLi-ZB8HQiMyYmAjEpaYpzdiREJezG1qoqsLKAdYEvflX9KjGVL0MuIFpD25bgkjR0iPQsRFd9QQBIJSUWdRWmGuIqKAaRc8JPphh9PvTJNpgkBR6znEQBDEDY2gdr-Vl6dj_KurpO1YaPlJNmXjZy2g84BIL_BebhCgshx6oxZaXD4iFCKm44K9mXf3dEI2vb5U&isca=1
